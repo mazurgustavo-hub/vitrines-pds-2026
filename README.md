@@ -4,3 +4,5 @@ Mapa interativo das vitrines comerciais, com tratamentos, datas de semeadura e a
 
 O site é publicado pelo GitHub Pages a partir do arquivo `index.html`.
 
+
+<!-- Atualiza publicação do GitHub Pages -->
