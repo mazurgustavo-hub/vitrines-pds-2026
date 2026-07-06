@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "d26427d6-a544-4f58-a54e-4dee18a973f3",
+    "local": "PASSO FUNDO",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-07-06",
+    "products": [
+      {
+        "product": "asdasd",
+        "dose": "1",
+        "unit": "L/ha"
+      },
+      {
+        "product": "asdasdas12",
+        "dose": "12",
+        "unit": "L/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-07-06T17:51:52.510Z"
+  }
+]
