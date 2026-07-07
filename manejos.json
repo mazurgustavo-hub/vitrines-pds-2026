@@ -1,18 +1,1 @@
-[
-  {
-    "id": "dc728b53-799e-4e69-b3d5-58ce2709bd42",
-    "local": "IJUI",
-    "epoch": "1",
-    "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-07-07",
-    "products": [
-      {
-        "product": "Caramba",
-        "dose": "1",
-        "unit": "L/ha"
-      }
-    ],
-    "observation": "asdasd",
-    "updatedAt": "2026-07-07T13:43:49.211Z"
-  }
-]
+[]
