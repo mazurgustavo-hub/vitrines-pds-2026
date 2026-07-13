@@ -45,7 +45,7 @@
     "local": "Luiziana",
     "epoch": "1",
     "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-07-13",
+    "date": "2026-06-08",
     "products": [
       {
         "product": "Uréia",
@@ -54,6 +54,6 @@
       }
     ],
     "observation": "",
-    "updatedAt": "2026-07-13T11:02:10.022Z"
+    "updatedAt": "2026-07-13T11:05:21.625Z"
   }
 ]
