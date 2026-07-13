@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "39a44ff6-c032-48f1-a44f-29be75315c28",
+    "local": "Luiziana",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-07-13",
+    "products": [
+      {
+        "product": "Adjust Herb",
+        "dose": "33",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-07-13T10:58:14.498Z"
+  }
+]
