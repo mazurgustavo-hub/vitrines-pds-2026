@@ -55,5 +55,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-07-13T11:05:21.625Z"
+  },
+  {
+    "id": "9310318a-5d00-4ebf-8e07-f69a643e818c",
+    "local": "Luiziana",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-06-26",
+    "products": [
+      {
+        "product": "Drop Gold",
+        "dose": "100",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Cubo Ir",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Nativo",
+        "dose": "830",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Eminent",
+        "dose": "400",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Aureo",
+        "dose": "200",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-07-13T11:20:37.081Z"
   }
 ]
