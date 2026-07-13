@@ -10,9 +10,34 @@
         "product": "Adjust Herb",
         "dose": "33",
         "unit": "mL/ha"
+      },
+      {
+        "product": "Ally",
+        "dose": "3.3",
+        "unit": "g/ha"
+      },
+      {
+        "product": "Engeo Pleno",
+        "dose": "100",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Certero",
+        "dose": "33",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Natur Oleo",
+        "dose": "100",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Materfix gramineas",
+        "dose": "200",
+        "unit": "mL/ha"
       }
     ],
     "observation": "",
-    "updatedAt": "2026-07-13T10:58:14.498Z"
+    "updatedAt": "2026-07-13T11:01:32.093Z"
   }
 ]
