@@ -113,10 +113,15 @@
         "product": "Yamato",
         "dose": "0.2",
         "unit": "L/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "0.075",
+        "unit": "L/ha"
       }
     ],
     "observation": "",
-    "updatedAt": "2026-08-07T11:20:00.569Z"
+    "updatedAt": "2026-08-07T11:35:10.052Z"
   },
   {
     "id": "6730da00-a005-4cf3-890a-542654a03598",
