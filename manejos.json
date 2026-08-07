@@ -421,5 +421,51 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-07T12:04:27.159Z"
+  },
+  {
+    "id": "d67b0fcd-fc42-4e0d-afbc-0b1dc40538f7",
+    "local": "SANTA ROSA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-07",
+    "products": [
+      {
+        "product": "Don Mark Excell",
+        "dose": "800",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Miravis",
+        "dose": "201",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Engeo Pleno",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Ampligo",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star sol",
+        "dose": "50",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Axial",
+        "dose": "800",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Allay",
+        "dose": "8",
+        "unit": "g/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-07T12:06:41.668Z"
   }
 ]
