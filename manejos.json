@@ -248,5 +248,26 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-07T11:50:06.961Z"
+  },
+  {
+    "id": "9e350a2e-42f1-4e8d-8339-c54051010aee",
+    "local": "PASSO FUNDO",
+    "epoch": "1",
+    "treatment": "BIOTRIGO Talismã - BIO182385",
+    "date": "2026-07-30",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Naft",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-07T11:50:59.761Z"
   }
 ]
