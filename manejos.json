@@ -317,5 +317,36 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-07T11:56:32.266Z"
+  },
+  {
+    "id": "c23647d8-b3e1-4abb-a797-ed94dfe983db",
+    "local": "SANTA ROSA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-06-20",
+    "products": [
+      {
+        "product": "axial",
+        "dose": "1000",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "allay",
+        "dose": "8",
+        "unit": "g/ha"
+      },
+      {
+        "product": "yamato",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "star sol",
+        "dose": "50",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-07T11:58:34.714Z"
   }
 ]
