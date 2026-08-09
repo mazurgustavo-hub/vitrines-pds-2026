@@ -529,5 +529,36 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:26:37.350Z"
+  },
+  {
+    "id": "dcacebdb-0435-41bc-a2e5-e2c78cf196dd",
+    "local": "Luiziana",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-07-31",
+    "products": [
+      {
+        "product": "Drop gold",
+        "dose": "100",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Aproach Power",
+        "dose": "600",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Engeo Pleno",
+        "dose": "130",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Certero",
+        "dose": "33",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:34:14.268Z"
   }
 ]
