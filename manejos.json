@@ -628,5 +628,31 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:44:11.124Z"
+  },
+  {
+    "id": "4ea8e87c-9e87-4c77-b599-6f97861a81c2",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-06-26",
+    "products": [
+      {
+        "product": "Axial",
+        "dose": "1000",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Yamato",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Action Gold",
+        "dose": "200",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:46:33.405Z"
   }
 ]
