@@ -733,5 +733,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:52:23.191Z"
+  },
+  {
+    "id": "9e588c9f-869f-456a-b7df-383d72f09842",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIOTRIGO EXCALIBUR - WBC201314",
+    "date": "2026-07-17",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:52:42.975Z"
   }
 ]
