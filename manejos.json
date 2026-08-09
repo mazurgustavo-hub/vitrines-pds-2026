@@ -899,7 +899,7 @@
     "local": "IJUI",
     "epoch": "1",
     "treatment": "DM 4025",
-    "date": "2026-07-14",
+    "date": "2026-07-17",
     "products": [
       {
         "product": "Moddus",
@@ -908,7 +908,7 @@
       }
     ],
     "observation": "",
-    "updatedAt": "2026-08-09T16:57:41.513Z"
+    "updatedAt": "2026-08-09T17:01:09.148Z"
   },
   {
     "id": "d0bd3477-fd2e-4af1-bfc8-2330cbe8a495",
