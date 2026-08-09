@@ -877,5 +877,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:56:29.829Z"
+  },
+  {
+    "id": "c5d576cb-b220-4f00-8920-3e5983e79fb6",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "DM 3026",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:56:54.530Z"
   }
 ]
