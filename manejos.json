@@ -612,5 +612,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:43:42.787Z"
+  },
+  {
+    "id": "2594cdf1-2b87-47cd-9942-6417a43eb1f7",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-07-04",
+    "products": [
+      {
+        "product": "Uréia Yara Bela 27%",
+        "dose": "185",
+        "unit": "kg/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:44:10.116Z"
   }
 ]
