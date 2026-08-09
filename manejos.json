@@ -845,5 +845,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:55:47.151Z"
+  },
+  {
+    "id": "9aec95e7-63cd-4453-858c-b4d3d484bf93",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "TBIO Blanc",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:56:11.197Z"
   }
 ]
