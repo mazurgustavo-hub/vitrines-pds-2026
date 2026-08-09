@@ -973,5 +973,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:59:09.501Z"
+  },
+  {
+    "id": "5fc7fe47-4f2c-41e0-8d47-1aab78e8f632",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "Energix 204 - BIO198009",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:59:29.435Z"
   }
 ]
