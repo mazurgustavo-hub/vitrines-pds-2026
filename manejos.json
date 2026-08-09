@@ -765,5 +765,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:54:03.044Z"
+  },
+  {
+    "id": "bdcb1ad8-898f-4ff4-be20-73868d535ffd",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "TBIO Calibre",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:54:27.726Z"
   }
 ]
