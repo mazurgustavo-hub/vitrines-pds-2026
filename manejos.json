@@ -161,22 +161,6 @@
     "updatedAt": "2026-08-07T11:24:22.149Z"
   },
   {
-    "id": "a6d89d29-32af-4f58-8cf4-9d42ffc64df9",
-    "local": "PASSO FUNDO",
-    "epoch": "1",
-    "treatment": "TBIO Calibre",
-    "date": "2026-07-18",
-    "products": [
-      {
-        "product": "Yara bella 27%",
-        "dose": "200",
-        "unit": "kg/ha"
-      }
-    ],
-    "observation": "",
-    "updatedAt": "2026-08-07T11:44:25.089Z"
-  },
-  {
     "id": "ea7234c4-b69e-4b27-9a59-4e3264d62f47",
     "local": "PASSO FUNDO",
     "epoch": "1",
