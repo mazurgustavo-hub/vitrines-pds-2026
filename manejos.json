@@ -717,5 +717,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:52:00.488Z"
+  },
+  {
+    "id": "f0e5bd41-e821-4740-865a-cd11c9f5cc25",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIOTRIGO Titan - BIO182455",
+    "date": "2026-07-17",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:52:23.191Z"
   }
 ]
