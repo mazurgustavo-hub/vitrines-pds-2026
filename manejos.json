@@ -670,5 +670,36 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:48:16.737Z"
+  },
+  {
+    "id": "6b46a839-4f6a-4f52-8cd6-9cc6dd33251d",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-06-16",
+    "products": [
+      {
+        "product": "Ally",
+        "dose": "10",
+        "unit": "g/ha"
+      },
+      {
+        "product": "Ampligo",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Verdavis",
+        "dose": "250",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Action Gold",
+        "dose": "200",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:49:45.319Z"
   }
 ]
