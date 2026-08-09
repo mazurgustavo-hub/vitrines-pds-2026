@@ -488,5 +488,46 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:23:27.061Z"
+  },
+  {
+    "id": "343d9007-8150-4357-84e3-0c87be830906",
+    "local": "Luiziana",
+    "epoch": "1",
+    "treatment": "TBIO Calibre",
+    "date": "2026-06-01",
+    "products": [
+      {
+        "product": "Adjust Herb",
+        "dose": "33",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Ally",
+        "dose": "3.3",
+        "unit": "g/ha"
+      },
+      {
+        "product": "Engeo Pleno",
+        "dose": "100",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Certero",
+        "dose": "33",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Natur Oleo",
+        "dose": "100",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Masterfix gramíneas",
+        "dose": "200",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:26:37.350Z"
   }
 ]
