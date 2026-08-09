@@ -391,7 +391,7 @@
     "local": "SANTA ROSA",
     "epoch": "1",
     "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-08-07",
+    "date": "2026-07-16",
     "products": [
       {
         "product": "Don Mark Excell",
@@ -430,6 +430,6 @@
       }
     ],
     "observation": "",
-    "updatedAt": "2026-08-07T12:06:41.668Z"
+    "updatedAt": "2026-08-09T16:11:35.014Z"
   }
 ]
