@@ -781,5 +781,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:54:27.726Z"
+  },
+  {
+    "id": "372b752e-ce79-4ee4-8c42-382129b58931",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "TBIO Trunfo",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:54:46.064Z"
   }
 ]
