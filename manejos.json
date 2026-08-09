@@ -797,5 +797,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:54:46.064Z"
+  },
+  {
+    "id": "aeea5b51-3317-4bee-9701-b3e064a584d8",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIOTRIGO Talismã - BIO182385",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:55:05.362Z"
   }
 ]
