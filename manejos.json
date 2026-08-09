@@ -701,5 +701,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:49:45.319Z"
+  },
+  {
+    "id": "62e44c5e-7863-4595-ab3b-2aa694e48493",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "TBIO Ponteiro",
+    "date": "2026-07-17",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:52:00.488Z"
   }
 ]
