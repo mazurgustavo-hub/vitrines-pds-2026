@@ -1015,5 +1015,31 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T17:03:03.021Z"
+  },
+  {
+    "id": "eca8939f-64a0-4ff8-bee3-ba18d4e0249b",
+    "local": "IJUI",
+    "epoch": "2",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-14",
+    "products": [
+      {
+        "product": "Abacus",
+        "dose": "350",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Tilt",
+        "dose": "500",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Aureo",
+        "dose": "300",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T17:05:43.891Z"
   }
 ]
