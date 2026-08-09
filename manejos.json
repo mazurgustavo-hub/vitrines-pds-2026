@@ -130,37 +130,6 @@
     "updatedAt": "2026-08-09T17:19:50.390Z"
   },
   {
-    "id": "c015fff3-c416-435d-8039-dbc7b8378ed8",
-    "local": "PASSO FUNDO",
-    "epoch": "1",
-    "treatment": "TBIO Calibre",
-    "date": "2026-07-14",
-    "products": [
-      {
-        "product": "Heat",
-        "dose": "35",
-        "unit": "g/ha"
-      },
-      {
-        "product": "Topik",
-        "dose": "0.3",
-        "unit": "L/ha"
-      },
-      {
-        "product": "Yamato",
-        "dose": "0.2",
-        "unit": "L/ha"
-      },
-      {
-        "product": "Star sol",
-        "dose": "0.05",
-        "unit": "L/ha"
-      }
-    ],
-    "observation": "",
-    "updatedAt": "2026-08-07T11:24:22.149Z"
-  },
-  {
     "id": "ea7234c4-b69e-4b27-9a59-4e3264d62f47",
     "local": "PASSO FUNDO",
     "epoch": "1",
