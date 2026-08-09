@@ -400,5 +400,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:11:35.014Z"
+  },
+  {
+    "id": "5a9e2f50-2045-42bf-9063-aa049b0bfcbf",
+    "local": "Luiziana",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-09",
+    "products": [
+      {
+        "product": "Drop gold",
+        "dose": "100",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Elatus",
+        "dose": "160",
+        "unit": "g/ha"
+      },
+      {
+        "product": "Tilt",
+        "dose": "530",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Re leaf",
+        "dose": "1",
+        "unit": "L/ha"
+      },
+      {
+        "product": "Ochima",
+        "dose": "200",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:20:05.493Z"
   }
 ]
