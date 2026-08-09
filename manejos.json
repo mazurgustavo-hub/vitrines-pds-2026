@@ -1041,5 +1041,31 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T17:05:59.310Z"
+  },
+  {
+    "id": "0011c9ea-aee6-4445-ab45-0777fc6508a5",
+    "local": "IJUI",
+    "epoch": "2",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-07-09",
+    "products": [
+      {
+        "product": "Heat",
+        "dose": "40",
+        "unit": "g/ha"
+      },
+      {
+        "product": "Topik",
+        "dose": "300",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "40",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T17:06:42.461Z"
   }
 ]
