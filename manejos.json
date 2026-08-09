@@ -861,5 +861,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:56:11.197Z"
+  },
+  {
+    "id": "c86d92e7-f7ad-42eb-8706-c9f2b863ba2c",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIOTRIGO Alba - BIO2220696",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:56:29.829Z"
   }
 ]
