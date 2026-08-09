@@ -813,5 +813,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:55:05.362Z"
+  },
+  {
+    "id": "228f6126-6655-4ad9-b906-6d5698acb6f8",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "TBIO Audaz",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:55:26.012Z"
   }
 ]
