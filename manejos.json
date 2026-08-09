@@ -957,5 +957,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:58:51.067Z"
+  },
+  {
+    "id": "e37d2162-df05-40de-92e1-1b70a978e60c",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BTC220015",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:59:09.501Z"
   }
 ]
