@@ -436,5 +436,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:20:05.493Z"
+  },
+  {
+    "id": "fa5be6a1-fb58-4a32-9163-04c9037de7e9",
+    "local": "Luiziana",
+    "epoch": "1",
+    "treatment": "TBIO Calibre",
+    "date": "2026-06-26",
+    "products": [
+      {
+        "product": "Drop gold",
+        "dose": "100",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Cubo IR",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Nativo",
+        "dose": "830",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Eminent",
+        "dose": "400",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Aureo",
+        "dose": "200",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:22:30.984Z"
   }
 ]
