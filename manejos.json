@@ -350,42 +350,6 @@
     "updatedAt": "2026-08-07T11:58:34.714Z"
   },
   {
-    "id": "94a8b125-7fb7-4b4c-b0fa-fe1c1e48667a",
-    "local": "SANTA ROSA",
-    "epoch": "1",
-    "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-07-16",
-    "products": [
-      {
-        "product": "Abacus",
-        "dose": "350",
-        "unit": "L/ha"
-      },
-      {
-        "product": "Brio",
-        "dose": "600",
-        "unit": "L/ha"
-      },
-      {
-        "product": "Engeo Pleno",
-        "dose": "250",
-        "unit": "L/ha"
-      },
-      {
-        "product": "Ampligo",
-        "dose": "200",
-        "unit": "L/ha"
-      },
-      {
-        "product": "Star Sol",
-        "dose": "50",
-        "unit": "L/ha"
-      }
-    ],
-    "observation": "",
-    "updatedAt": "2026-08-09T16:06:30.990Z"
-  },
-  {
     "id": "21e5d3e2-dd50-42b4-81a7-e1f0774d7b4b",
     "local": "SANTA ROSA",
     "epoch": "1",
