@@ -1001,9 +1001,14 @@
         "product": "Moddus",
         "dose": "250",
         "unit": "mL/ha"
+      },
+      {
+        "product": "Naft",
+        "dose": "75",
+        "unit": "mL/ha"
       }
     ],
     "observation": "",
-    "updatedAt": "2026-08-09T17:02:10.699Z"
+    "updatedAt": "2026-08-09T17:03:03.021Z"
   }
 ]
