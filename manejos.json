@@ -909,5 +909,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:57:41.513Z"
+  },
+  {
+    "id": "d0bd3477-fd2e-4af1-bfc8-2330cbe8a495",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "XFRONT - MIX22CV03",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:58:06.246Z"
   }
 ]
