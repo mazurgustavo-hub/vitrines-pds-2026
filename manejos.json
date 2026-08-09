@@ -941,5 +941,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T16:58:26.764Z"
+  },
+  {
+    "id": "864f8412-eaba-4580-abb4-282149f96ed0",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIO228013",
+    "date": "2026-07-14",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-09T16:58:50.416Z"
   }
 ]
