@@ -1183,5 +1183,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-09T17:23:42.517Z"
+  },
+  {
+    "id": "55961777-f5f0-4495-983e-a8b5e83e9a76",
+    "local": "SANTA ROSA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-12",
+    "products": [
+      {
+        "product": "Abacus",
+        "dose": "350",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Brio",
+        "dose": "600",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Verdavis",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Nomolt",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-12T10:43:47.777Z"
   }
 ]
