@@ -1189,7 +1189,7 @@
     "local": "SANTA ROSA",
     "epoch": "1",
     "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-08-12",
+    "date": "2026-08-02",
     "products": [
       {
         "product": "Abacus",
@@ -1215,9 +1215,14 @@
         "product": "Star Sol",
         "dose": "75",
         "unit": "mL/ha"
+      },
+      {
+        "product": "Titaniun",
+        "dose": "300",
+        "unit": "mL/ha"
       }
     ],
     "observation": "",
-    "updatedAt": "2026-08-12T10:43:47.777Z"
+    "updatedAt": "2026-08-12T10:53:10.560Z"
   }
 ]
