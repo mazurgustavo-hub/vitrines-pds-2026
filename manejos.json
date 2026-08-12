@@ -1224,5 +1224,31 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-12T10:53:10.560Z"
+  },
+  {
+    "id": "e0eaa3f1-d9b8-4f3e-9a6f-c7e489dabf85",
+    "local": "IJUI",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-07-31",
+    "products": [
+      {
+        "product": "Teburas",
+        "dose": "600",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Tilt",
+        "dose": "500",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Imidacloprid",
+        "dose": "120",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-12T10:54:33.778Z"
   }
 ]
