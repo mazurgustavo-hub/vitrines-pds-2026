@@ -1350,7 +1350,7 @@
     "local": "IJUI",
     "epoch": "2",
     "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-08-22",
+    "date": "2026-08-18",
     "products": [
       {
         "product": "Caramba",
@@ -1379,6 +1379,6 @@
       }
     ],
     "observation": "",
-    "updatedAt": "2026-08-22T10:51:27.026Z"
+    "updatedAt": "2026-08-22T10:51:41.312Z"
   }
 ]
