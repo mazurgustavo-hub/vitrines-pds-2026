@@ -1344,5 +1344,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-08-22T10:49:52.092Z"
+  },
+  {
+    "id": "f878ce41-55dc-4c64-bd7b-c773c36d0a55",
+    "local": "IJUI",
+    "epoch": "2",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-22",
+    "products": [
+      {
+        "product": "Caramba",
+        "dose": "1000",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Miravis",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Ampligo",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Engeo Pleno",
+        "dose": "400",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-08-22T10:51:27.026Z"
   }
 ]
