@@ -1406,5 +1406,31 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-15T01:02:00.366Z"
+  },
+  {
+    "id": "e86473d6-7536-47d1-9659-fa725b5d2b6f",
+    "local": "IJUI",
+    "epoch": "2",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-25",
+    "products": [
+      {
+        "product": "Miravis",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Verdavis",
+        "dose": "300",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Caramba",
+        "dose": "1000",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-15T01:03:56.890Z"
   }
 ]
