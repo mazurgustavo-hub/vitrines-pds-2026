@@ -1494,5 +1494,26 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-17T12:10:26.259Z"
+  },
+  {
+    "id": "edbe3d65-18c0-43df-8393-c182513ce0b6",
+    "local": "SANTA ROSA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-09-17",
+    "products": [
+      {
+        "product": "Cuprozin Ultra",
+        "dose": "300",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-17T12:11:16.218Z"
   }
 ]
