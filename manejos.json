@@ -1500,7 +1500,7 @@
     "local": "SANTA ROSA",
     "epoch": "1",
     "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-09-17",
+    "date": "2026-08-14",
     "products": [
       {
         "product": "Cuprozin Ultra",
@@ -1514,6 +1514,6 @@
       }
     ],
     "observation": "",
-    "updatedAt": "2026-09-17T12:11:16.218Z"
+    "updatedAt": "2026-09-17T12:11:59.922Z"
   }
 ]
