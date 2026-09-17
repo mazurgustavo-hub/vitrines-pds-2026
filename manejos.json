@@ -1551,5 +1551,31 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-17T12:13:32.941Z"
+  },
+  {
+    "id": "ff35bb30-3e2b-49d7-909f-a7d2f4933016",
+    "local": "SANTA ROSA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-26",
+    "products": [
+      {
+        "product": "Miravis",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Engeo Pleno",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-17T12:14:36.281Z"
   }
 ]
