@@ -1649,5 +1649,36 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-21T11:02:00.645Z"
+  },
+  {
+    "id": "d3662f2d-491c-4d50-a167-8675271e4865",
+    "local": "PASSO FUNDO",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-09-03",
+    "products": [
+      {
+        "product": "Axial",
+        "dose": "1000",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Ally",
+        "dose": "10",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Yamato",
+        "dose": "150",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-21T11:03:14.170Z"
   }
 ]
