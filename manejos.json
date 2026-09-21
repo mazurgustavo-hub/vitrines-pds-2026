@@ -1995,5 +1995,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-21T11:30:07.385Z"
+  },
+  {
+    "id": "fe329e79-4a88-4e4e-a1dd-15e723de9d34",
+    "local": "COXILHA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-09-17",
+    "products": [
+      {
+        "product": "Miravis",
+        "dose": "200",
+        "unit": "L/ha"
+      },
+      {
+        "product": "Caramba",
+        "dose": "1000",
+        "unit": "L/ha"
+      },
+      {
+        "product": "Galil",
+        "dose": "200",
+        "unit": "L/ha"
+      },
+      {
+        "product": "Ampligo",
+        "dose": "50",
+        "unit": "L/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "L/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-21T11:31:16.370Z"
   }
 ]
