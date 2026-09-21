@@ -1758,7 +1758,7 @@
     "local": "PASSO FUNDO",
     "epoch": "2",
     "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-09-21",
+    "date": "2026-08-24",
     "products": [
       {
         "product": "Abacus",
@@ -1787,6 +1787,6 @@
       }
     ],
     "observation": "",
-    "updatedAt": "2026-09-21T11:13:14.772Z"
+    "updatedAt": "2026-09-21T11:13:28.101Z"
   }
 ]
