@@ -1907,5 +1907,26 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-21T11:21:48.735Z"
+  },
+  {
+    "id": "5c4e520e-618e-40f2-b2d7-1a4c75b823e3",
+    "local": "COXILHA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-17",
+    "products": [
+      {
+        "product": "Moddus",
+        "dose": "250",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-21T11:26:00.594Z"
   }
 ]
