@@ -1835,5 +1835,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-21T11:15:06.528Z"
+  },
+  {
+    "id": "8f383c1b-b373-48d1-9d42-85ad331a2819",
+    "local": "PASSO FUNDO",
+    "epoch": "2",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-09-08",
+    "products": [
+      {
+        "product": "Caramba",
+        "dose": "1000",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Miravis",
+        "dose": "300",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Engeo",
+        "dose": "300",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Ampligo",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-21T11:20:30.398Z"
   }
 ]
