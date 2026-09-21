@@ -1819,5 +1819,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-21T11:14:26.364Z"
+  },
+  {
+    "id": "cbfe67b5-e8f9-47e1-b481-dd44363ee23a",
+    "local": "PASSO FUNDO",
+    "epoch": "2",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-09-08",
+    "products": [
+      {
+        "product": "yara Bela 27%",
+        "dose": "200",
+        "unit": "kg/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-21T11:15:06.528Z"
   }
 ]
