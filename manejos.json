@@ -1613,5 +1613,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-17T12:15:55.476Z"
+  },
+  {
+    "id": "81d0e100-7233-4d61-b1f5-0dbcfad93e66",
+    "local": "PASSO FUNDO",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-24",
+    "products": [
+      {
+        "product": "Abacus",
+        "dose": "350",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Brio",
+        "dose": "600",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Engeo Pleno",
+        "dose": "300",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Ampligo",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-21T11:01:58.918Z"
   }
 ]
