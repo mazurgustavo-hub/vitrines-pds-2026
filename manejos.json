@@ -2094,7 +2094,7 @@
     "local": "COXILHA",
     "epoch": "2",
     "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-09-21",
+    "date": "2026-09-07",
     "products": [
       {
         "product": "Axial",
@@ -2118,6 +2118,6 @@
       }
     ],
     "observation": "",
-    "updatedAt": "2026-09-21T11:35:36.887Z"
+    "updatedAt": "2026-09-21T11:35:47.720Z"
   }
 ]
