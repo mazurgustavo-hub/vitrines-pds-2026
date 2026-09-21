@@ -1964,5 +1964,36 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-21T11:28:42.446Z"
+  },
+  {
+    "id": "bb444a59-0616-47ae-aa94-48c0b9a31fee",
+    "local": "COXILHA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-09-07",
+    "products": [
+      {
+        "product": "Axial",
+        "dose": "800",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Galil",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Monolt",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-21T11:30:07.385Z"
   }
 ]
