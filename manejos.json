@@ -1928,5 +1928,41 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-21T11:26:00.594Z"
+  },
+  {
+    "id": "466417ab-c866-4bd6-9e78-36990c2dc655",
+    "local": "COXILHA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-08-24",
+    "products": [
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Abacus",
+        "dose": "350",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Brio",
+        "dose": "600",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Engeo Pleno",
+        "dose": "300",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Ampligo",
+        "dose": "200",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-21T11:28:42.446Z"
   }
 ]
