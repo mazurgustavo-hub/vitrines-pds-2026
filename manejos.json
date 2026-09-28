@@ -2233,5 +2233,21 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-28T16:16:11.744Z"
+  },
+  {
+    "id": "f6aa5e7f-254f-4f55-b8cb-fad8fffeef39",
+    "local": "IJUI",
+    "epoch": "2",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-09-17",
+    "products": [
+      {
+        "product": "User 430",
+        "dose": "350",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-28T16:16:40.064Z"
   }
 ]
