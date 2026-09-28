@@ -2281,7 +2281,7 @@
     "local": "PASSO FUNDO",
     "epoch": "2",
     "treatment": "BIOTRIGO VELOZ - WBC201347",
-    "date": "2026-09-28",
+    "date": "2026-09-25",
     "products": [
       {
         "product": "Miravis",
@@ -2300,6 +2300,6 @@
       }
     ],
     "observation": "",
-    "updatedAt": "2026-09-28T16:18:23.111Z"
+    "updatedAt": "2026-09-28T16:18:36.619Z"
   }
 ]
