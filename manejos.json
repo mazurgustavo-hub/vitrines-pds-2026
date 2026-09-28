@@ -2155,5 +2155,36 @@
     ],
     "observation": "",
     "updatedAt": "2026-09-21T11:37:01.698Z"
+  },
+  {
+    "id": "0328e328-cba9-4b33-a742-77a2a37d4372",
+    "local": "COXILHA",
+    "epoch": "1",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-09-26",
+    "products": [
+      {
+        "product": "Caramba",
+        "dose": "1000",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Miravis",
+        "dose": "200",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Starsol",
+        "dose": "75",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "User 430",
+        "dose": "350",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-09-28T16:12:56.647Z"
   }
 ]
