@@ -2385,5 +2385,26 @@
     ],
     "observation": "",
     "updatedAt": "2026-10-01T10:38:50.635Z"
+  },
+  {
+    "id": "d87196f3-78fa-4fc7-866e-c184816bb656",
+    "local": "PASSO FUNDO",
+    "epoch": "2",
+    "treatment": "BIOTRIGO VELOZ - WBC201347",
+    "date": "2026-10-23",
+    "products": [
+      {
+        "product": "Cuprozin",
+        "dose": "500",
+        "unit": "mL/ha"
+      },
+      {
+        "product": "Star Sol",
+        "dose": "75",
+        "unit": "mL/ha"
+      }
+    ],
+    "observation": "",
+    "updatedAt": "2026-10-01T10:39:42.426Z"
   }
 ]
